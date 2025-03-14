@@ -30,8 +30,7 @@ This project solves the Tower of Hanoi problem using both recursive and iterativ
 - Visualization of each move using the DrawHanoiTowers function.
 
 ## Contributing 
-- I welcome anyone who would like to contribute to this project! If you'd like to help
-- improve it, feel free to open issues and pull requests.
+- I welcome anyone who would like to contribute to this project! If you'd like to help improve it, feel free to open issues and pull requests.
 
 ## License 
 None
