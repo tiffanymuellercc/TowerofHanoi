@@ -1,0 +1,14 @@
+/Users/tiffanymueller/Dropbox/C#/Hanoi/bin/Debug/net8.0/Hanoi
+/Users/tiffanymueller/Dropbox/C#/Hanoi/bin/Debug/net8.0/Hanoi.deps.json
+/Users/tiffanymueller/Dropbox/C#/Hanoi/bin/Debug/net8.0/Hanoi.runtimeconfig.json
+/Users/tiffanymueller/Dropbox/C#/Hanoi/bin/Debug/net8.0/Hanoi.dll
+/Users/tiffanymueller/Dropbox/C#/Hanoi/bin/Debug/net8.0/Hanoi.pdb
+/Users/tiffanymueller/Dropbox/C#/Hanoi/obj/Debug/net8.0/Hanoi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tiffanymueller/Dropbox/C#/Hanoi/obj/Debug/net8.0/Hanoi.AssemblyInfoInputs.cache
+/Users/tiffanymueller/Dropbox/C#/Hanoi/obj/Debug/net8.0/Hanoi.AssemblyInfo.cs
+/Users/tiffanymueller/Dropbox/C#/Hanoi/obj/Debug/net8.0/Hanoi.csproj.CoreCompileInputs.cache
+/Users/tiffanymueller/Dropbox/C#/Hanoi/obj/Debug/net8.0/Hanoi.dll
+/Users/tiffanymueller/Dropbox/C#/Hanoi/obj/Debug/net8.0/refint/Hanoi.dll
+/Users/tiffanymueller/Dropbox/C#/Hanoi/obj/Debug/net8.0/Hanoi.pdb
+/Users/tiffanymueller/Dropbox/C#/Hanoi/obj/Debug/net8.0/Hanoi.genruntimeconfig.cache
+/Users/tiffanymueller/Dropbox/C#/Hanoi/obj/Debug/net8.0/ref/Hanoi.dll
